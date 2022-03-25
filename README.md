@@ -4,9 +4,9 @@
 
 1. Linux
 
-2. ~~.MacOS.~~ (Comming soon)
+2. ~~.MacOS.~~ (Coming soon)
 
-3. ~~.Windows.~~ (Comming Soon)
+3. ~~.Windows.~~ (Coming Soon)
 
 ### Supported IDE
 
